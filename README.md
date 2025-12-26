@@ -1,2 +1,3 @@
-# C-BMI-Calculator
-A C++ BMI (Body Mass Index) calculator that takes user input for weight and height, computes BMI, classifies body weight, and allows repeated calculations in a loop.
+# C++ BMI-Calculator
+This project is a C++ implementation of a Body Mass Index (BMI) calculator that applies fundamental programming principles such as user input/output, mathematical computation, conditional branching, and basic control flow. The program prompts the user for weight and height values, calculates BMI using the standard formula, evaluates the result against defined ranges, and displays an appropriate classification.
+The application is structured to allow repeated calculations within a single run, reinforcing control flow handling and logical sequencing. The focus of the project is on translating a real-world formula into working code while maintaining clear execution flow and correct decision logic.
